@@ -7,8 +7,6 @@ This repository contains various projects on Machine Learning and will be update
 - some of my first ML projects
 
 - scripts: some exercises: 
-          - Gradient Descent for Logistic Regression, supporting Multiclass classification, Regularization etc. /n
-          - Gradient Descent for simple Linear Regression /n
-          - More to follow
+          - Gradient Descent for Logistic Regression, supporting Multiclass classification, Regularization etc. | Gradient Descent for simple Linear Regression | More to follow
           
    
